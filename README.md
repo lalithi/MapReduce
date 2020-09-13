@@ -3,6 +3,12 @@ A map-reduce program
 ___  
 <br/>
 
+## **Task 0**
+
+A Mapreduce program for general word count task.
+
+<br/>
+
 ## 1. **Task 1**
 
 A MapReduce program to count number of short words (1-4 letters), medium words (5-7 letters) words, long words (8-10 letters) and extra-long words (More than 10 letters).
